@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Artificial Intelligence and Web Development
 
 You can use the [editor on GitHub](https://github.com/ARBUCHELI/Artificialintelligence.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
