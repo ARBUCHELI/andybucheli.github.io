@@ -15,7 +15,7 @@ C, Python, Javascript.
 5. MySQL.
 6. React.
 7. React-Redux.
-8. Wordpress.
+8. Wordpres.
 
 ### Find me
 
