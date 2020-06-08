@@ -1,4 +1,4 @@
-## Artificial Intelligence and Web Development
+# Artificial Intelligence and Web Development
 
 In this website you will find theoretical documentation, explanations and tutorials related to my projects in Programming, Web Development, Artificial Intelligence, Machine Learning and Deep Learning.
 
@@ -6,7 +6,7 @@ In this website you will find theoretical documentation, explanations and tutori
 
 C, Python, Javascript.
 
-# Technologies
+### Technologies
 
 1. Numbered
 2. List
