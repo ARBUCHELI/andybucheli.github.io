@@ -6,15 +6,7 @@ In this website you will find theoretical documentation, explanations and tutori
 
 C, Python, Javascript.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# Technologies
 
 1. Numbered
 2. List
