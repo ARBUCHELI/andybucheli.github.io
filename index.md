@@ -8,6 +8,6 @@ C, Python, Javascript.
 
 ### Technologies
 
-1. Numbered
-2. List
+. Numbered
+. List
 
