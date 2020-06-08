@@ -6,6 +6,17 @@ In this website you will find theoretical documentation, explanations and tutori
 
 C, Python, Javascript.
 
+### Technologies
+
+1. JavaScript.
+2. HTML.
+3. CSS.
+4. PHP.
+5. MySQL.
+6. React.
+7. React-Redux.
+8. Wordpress.
+
 ### Find me
 
 1. [Facebook](https://www.facebook.com/andres.regaladobucheli?hc_ref=ARRhabqP0cpix2Rug0ulvxgozxKyr9mIfIT_6Y98q6IO8ltfZSLKT-vUdc5_3ZjmtbY&fref=nf).
