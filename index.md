@@ -2,9 +2,9 @@
 
 In this website you will find theoretical documentation, explanations and tutorials related to my projects in Programming, Web Development, Artificial Intelligence, Machine Learning and Deep Learning.
 
-### Markdown
+### Programming Languages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+C, Python, Javascript.
 
 ```markdown
 Syntax highlighted code block
