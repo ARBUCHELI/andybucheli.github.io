@@ -6,7 +6,7 @@ In this website you will find theoretical documentation, explanations and tutori
 
 C, Python, Javascript.
 
-### Contact
+### Find me
 
 1. [Facebook](https://www.facebook.com/andres.regaladobucheli?hc_ref=ARRhabqP0cpix2Rug0ulvxgozxKyr9mIfIT_6Y98q6IO8ltfZSLKT-vUdc5_3ZjmtbY&fref=nf).
 2. [Twitter](https://twitter.com/andresfrbuch).
